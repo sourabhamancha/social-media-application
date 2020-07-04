@@ -1,0 +1,8 @@
+{
+  "short_name": "social-media-app",
+  "name": "Full Stack App React and Firebase App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
