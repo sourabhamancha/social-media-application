@@ -10,7 +10,6 @@ Full stack social media app that lets you:
 
 --> Delete own posts.
 
-Hosting URL: https://social-media-app-b9f81.web.app
 
 ## Signup Page
 
